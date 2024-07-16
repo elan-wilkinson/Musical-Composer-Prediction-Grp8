@@ -5,3 +5,17 @@
 **Project Title:** Predicting the Composer from Music Audio Files
 
 **Project Status:** Active
+
+## Project Intro/Objective
+
+-
+
+## Contributors
+
+- **Aaron Ramirez**
+- **Elan Wilkinson**
+- **Bhupal Lambodhar**
+
+## Methods Used
+
+-
