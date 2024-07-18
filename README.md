@@ -19,3 +19,19 @@
 ## Methods Used
 
 -
+
+## Technologies
+
+- **Programming Language:** Python
+- **Libraries:** 
+  - Pretty_Midi
+  - Matplotlib
+
+## Project Description
+
+This project...
+## Acknowledgments
+
+Our thanks and appreciation go to our professor **Mirsardar Esmaeili** and to **Bohdan Fedorak** for providing the dataset that this project is based on.
+
+---
